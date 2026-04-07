@@ -1,6 +1,12 @@
-# Full-Stack Coding Skill
-**Version:** 1.1.0
-**Last Updated:** April 2026
+---
+name: full-stack-coding
+description: Use this skill for any software engineering task — writing, fixing,
+  refactoring, reviewing, or explaining code across the full stack. Trigger for
+  frontend, backend, database, DevOps, algorithm, testing, Git, or clean code
+  questions. Also use when the user mentions architecture, API design, CI/CD,
+  containerization, or SOLID principles — even if they don't frame it as a
+  "coding" request.
+---
 
 ## Overview
 Use this skill when the user asks for help with any software engineering task — writing, reviewing, debugging, or explaining code across the full stack. This covers frontend, backend, databases, DevOps, algorithms, and engineering best practices.
