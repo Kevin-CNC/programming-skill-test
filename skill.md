@@ -9,7 +9,7 @@ description: Use this skill for any software engineering task — writing, fixin
 ---
 
 ## Overview
-Use this skill when the user asks for help with any software engineering task — writing, reviewing, debugging, or explaining code across the full stack. This covers frontend, backend, databases, DevOps, algorithms, and engineering best practices.
+Use this skill when the user asks for help with any software engineering task — writing, reviewing, debugging, or explaining code across the full stack. This covers frontend, backend, databases, DevOps, algorithms, and engineering best practices!
 
 ---
 
